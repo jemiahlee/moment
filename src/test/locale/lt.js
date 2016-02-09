@@ -43,6 +43,7 @@ test('format', function (assert) {
             ['LLLL',                               '2010 m. vasaris 14 d., sekmadienis, 15:25 val.'],
             ['l',                                  '2010-02-14'],
             ['ll',                                 '2010 m. vasaris 14 d.'],
+            ['lls',                                'm. vasaris 14 d.'],
             ['lll',                                '2010 m. vasaris 14 d., 15:25 val.'],
             ['llll',                               '2010 m. vasaris 14 d., Sek, 15:25 val.']
         ],

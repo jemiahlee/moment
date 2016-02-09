@@ -19,6 +19,7 @@ export default moment.defineLocale('zh-tw', {
         LLLL : 'YYYY年MMMD日ddddAh點mm分',
         l : 'YYYY年MMMD日',
         ll : 'YYYY年MMMD日',
+        lls : 'MMMD日',
         lll : 'YYYY年MMMD日Ah點mm分',
         llll : 'YYYY年MMMD日ddddAh點mm分'
     },

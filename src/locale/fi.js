@@ -62,6 +62,7 @@ export default moment.defineLocale('fi', {
         LLLL : 'dddd, Do MMMM[ta] YYYY, [klo] HH.mm',
         l : 'D.M.YYYY',
         ll : 'Do MMM YYYY',
+        lls : 'Do MMM',
         lll : 'Do MMM YYYY, [klo] HH.mm',
         llll : 'ddd, Do MMM YYYY, [klo] HH.mm'
     },

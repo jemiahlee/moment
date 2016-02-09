@@ -20,6 +20,7 @@ export default moment.defineLocale('zh-cn', {
         LLLL : 'YYYY年MMMD日ddddAh点mm分',
         l : 'YYYY-MM-DD',
         ll : 'YYYY年MMMD日',
+        lls : 'MMMD日',
         lll : 'YYYY年MMMD日Ah点mm分',
         llll : 'YYYY年MMMD日ddddAh点mm分'
     },

@@ -58,6 +58,7 @@ test('format', function (assert) {
         ['LLLL', 'Didòmhnaich, 14 An Gearran 2010 15:25'],
         ['l', '14/2/2010'],
         ['ll', '14 Gear 2010'],
+        ['lls','14 Gear'],
         ['lll', '14 Gear 2010 15:25'],
         ['llll', 'Did, 14 Gear 2010 15:25']
     ],

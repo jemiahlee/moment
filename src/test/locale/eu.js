@@ -43,6 +43,7 @@ test('format', function (assert) {
             ['LLLL',                               'igandea, 2010ko otsailaren 14a 15:25'],
             ['l',                                  '2010-2-14'],
             ['ll',                                 '2010ko ots. 14a'],
+            ['lls',                                'ots. 14a'],
             ['lll',                                '2010ko ots. 14a 15:25'],
             ['llll',                               'ig., 2010ko ots. 14a 15:25']
         ],

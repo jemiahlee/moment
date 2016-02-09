@@ -43,6 +43,7 @@ test('format', function (assert) {
             ['LLLL',                               '2010. gada 14. februāris, svētdiena, 15:25'],
             ['l',                                  '14.2.2010.'],
             ['ll',                                 '2010. gada 14. feb'],
+            ['lls',                                '. gada 14. feb'],
             ['lll',                                '2010. gada 14. feb, 15:25'],
             ['llll',                               '2010. gada 14. feb, Sv, 15:25']
         ],

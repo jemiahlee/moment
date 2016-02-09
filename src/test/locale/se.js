@@ -46,6 +46,7 @@ test('format', function (assert) {
             ['LLLL',                               'sotnabeaivi, guovvamánnu 14. b. 2010 ti. 15:25'],
             ['l',                                  '14.2.2010'],
             ['ll',                                 'guov 14. b. 2010'],
+            ['lls',                                'guov 14. b.'],
             ['lll',                                'guov 14. b. 2010 ti. 15:25'],
             ['llll',                               'sotn, guov 14. b. 2010 ti. 15:25']
         ],

@@ -66,6 +66,7 @@ test('format', function (assert) {
             ['LLLL',                               'niedziela, 14 lutego 2010 15:25'],
             ['l',                                  '14.2.2010'],
             ['ll',                                 '14 lut 2010'],
+            ['lls',                                '14 lut'],
             ['lll',                                '14 lut 2010 15:25'],
             ['llll',                               'nie, 14 lut 2010 15:25']
         ],
